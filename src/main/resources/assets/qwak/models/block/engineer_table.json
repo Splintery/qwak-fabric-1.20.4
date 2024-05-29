@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/oak_planks",
+    "east": "qwak:block/engineer_table_side",
+    "north": "qwak:block/engineer_table_front",
+    "particle": "qwak:block/engineer_table_front",
+    "south": "qwak:block/engineer_table_side",
+    "up": "qwak:block/engineer_table_top",
+    "west": "qwak:block/engineer_table_front"
+  }
+}

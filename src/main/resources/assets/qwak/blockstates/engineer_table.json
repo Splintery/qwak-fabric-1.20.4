@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "qwak:block/engineer_table"
+    }
+  }
+}
